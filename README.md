@@ -1,5 +1,5 @@
 ### Привет 👋
-
+Это мой git для души!)
 
 <!--
 **ArtemHard/ArtemHard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
