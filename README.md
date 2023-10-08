@@ -7,7 +7,7 @@ Have knowledge in developing user interface, testing and debugging.
 Support for existing functionality. Optimiz web apps performance
 using React. 
 
-Also like to create tech **[movie](https://www.youtube.com/shorts/-LBqDa0QYU0)** for frontend begginers or mentoring them. 
+Also like to create tech **[movie](https://www.youtube.com/shorts/WH0Vbo5zpuw)** for frontend begginers or mentoring them. 
 
 ### Languages and Tools:
 
