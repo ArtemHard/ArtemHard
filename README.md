@@ -33,13 +33,13 @@ Also like to create tech movie for frontend begginers or mentoring them.
    <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white" alt="Git"/>
 </div>
 
-### Projects and Dev Stuffs:
+### Statistic:
 
 <details>
   <summary><b>⚡ Github Stats</b></summary>
 
   <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArtemHard&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ArtemHard&show_icons=true" alt="Artem Kabakov Github Stats"></img>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArtemHard&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </details>
 
