@@ -31,14 +31,14 @@ Also like to create tech **[movie](https://www.youtube.com/shorts/WH0Vbo5zpuw)**
    <img src="https://img.shields.io/badge/Ant%20Design-0170FE.svg?style=for-the-badge&logo=Ant-Design&logoColor=white" alt="Ant"/>
    <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white" alt="Git"/>
 </div>
-<details>
 
-### <summary>Talking about Personal Stuff:</summary>
+### Talking about Personal Stuff:
 
 - 🛠 &nbsp; I’m currently working with JS, TS, React, etc.
 - 🚀 &nbsp; I’m currently exploring Firebase, GraphQl.
 
-<b>⚙️ Things I use to get stuff done</b>
+<details>
+ <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
   	    <li><b>OS:</b> Windows</li>
 	    <li><b>Laptop: </b> Asus Vivo Book</li>
