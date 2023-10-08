@@ -1,14 +1,13 @@
-## Hey there 👋
+## Hey there I'm Frontend developer👋
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/artem-kabakov)
 
-### Glad to see you here!
-I am a Frontend Developer. 
+### About me
 Have knowledge in developing user interface, testing and debugging. 
 
 Support for existing functionality. Optimiz web apps performance
 using React. 
 
-Also like to create tech movie for frontend begginers or mentoring them. 
+Also like to create tech **[movie](https://www.youtube.com/shorts/-LBqDa0QYU0)** for frontend begginers or mentoring them. 
 
 ### Languages and Tools:
 
