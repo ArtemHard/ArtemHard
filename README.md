@@ -31,6 +31,21 @@ Also like to create tech **[movie](https://www.youtube.com/shorts/WH0Vbo5zpuw)**
    <img src="https://img.shields.io/badge/Ant%20Design-0170FE.svg?style=for-the-badge&logo=Ant-Design&logoColor=white" alt="Ant"/>
    <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white" alt="Git"/>
 </div>
+### Talking about Personal Stuff:
+<details>
+
+- 🛠 &nbsp; I’m currently working with JS, TS, React, etc.
+- 🚀 &nbsp; I’m currently exploring Firebase, GraphQl.
+<summary><b>⚙️ Things I use to get stuff done</b></summary>
+  	<ul>
+  	    <li><b>OS:</b> Windows</li>
+	    <li><b>Laptop: </b> Asus Vivo Book</li>
+  	    <li><b>Browser: </b> Chrome & Brave</li>
+	    <li><b>Code Editor:</b> VSCode - The best editor out there</li>
+ 	    <li><b>Other Tools:</b> Postman, Hoopscotch, Swagger</li>
+	    <li><b>To Stay Updated:</b> Youtube, Linkedin </li>
+	</ul>
+</details>
 
 ### Statistic:
 
