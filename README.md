@@ -33,12 +33,12 @@ Also like to create tech **[movie](https://www.youtube.com/shorts/WH0Vbo5zpuw)**
 </div>
 <details>
 
-### Talking about Personal Stuff:
+### <summary>Talking about Personal Stuff:</summary>
 
 - 🛠 &nbsp; I’m currently working with JS, TS, React, etc.
 - 🚀 &nbsp; I’m currently exploring Firebase, GraphQl.
 
-<summary><b>⚙️ Things I use to get stuff done</b></summary>
+<b>⚙️ Things I use to get stuff done</b>
   	<ul>
   	    <li><b>OS:</b> Windows</li>
 	    <li><b>Laptop: </b> Asus Vivo Book</li>
