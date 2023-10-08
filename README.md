@@ -43,7 +43,7 @@ Also like to create tech **[movie](https://www.youtube.com/shorts/WH0Vbo5zpuw)**
   	    <li><b>OS:</b> Windows</li>
 	    <li><b>Laptop: </b> Asus Vivo Book</li>
   	    <li><b>Browser: </b> Chrome & Brave</li>
-	    <li><b>Code Editor:</b> VSCode - The best editor out there</li>
+	    <li><b>Code Editor:</b> VSCode</li>
  	    <li><b>Other Tools:</b> Postman, Hoopscotch, Swagger</li>
 	    <li><b>To Stay Updated:</b> Youtube, Linkedin </li>
 	</ul>
