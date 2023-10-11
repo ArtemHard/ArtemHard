@@ -36,6 +36,7 @@ Also like to create tech **[movie](https://www.youtube.com/shorts/WH0Vbo5zpuw)**
 
 - 🛠 &nbsp; I’m currently working with JS, TS, React, etc.
 - 🚀 &nbsp; I’m currently exploring Firebase, GraphQl.
+- 🚀 &nbsp; <b>I'm not afraid of the camera.</b>
 
 <details>
  <summary><b>⚙️ Things I use to get stuff done</b></summary>
